@@ -1,7 +1,7 @@
 
 from src.datascience.config.configuration import TrainerConfigurationManager
 from src.datascience.components.trainer import ModelTrainer
-
+from src.datascience import logger
 
 
 STAGE_NAME="Trainer Stage"
